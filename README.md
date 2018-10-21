@@ -2,12 +2,7 @@
 This is a curated curriculum of the best resourses to teach yourself Machine Learning.
 
 ## Getting Started
-*__Learn basic and intermediate Python.__*
-- [ ] [Udemy: The Modern Python 3 Bootcamp](https://www.udemy.com/the-modern-python3-bootcamp)
+- [ ] __Learn basic and intermediate Python__ with this course on [Udemy](https://www.udemy.com/the-modern-python3-bootcamp) 
+ 
 
-Colt is hands down the best instructor I’ve experienced. He not only knows his stuff, but he knows how to teach it as well. Ideas are clearly articulated, and complicated subjects are broken down into bite size chunks that are easy to understand. Plus, you learn by building real-world things, not by reading and taking tests.
-
-*__Listen to this Podcast.__*
-- [ ] [Download The Machine Learning Podcast” by OCDevel](https://overcast.fm/itunes1204521130/machine-learning-guide)
-
-This podcast provides a great overview of the Machine Learning ecosystem.
+- [ ] __Listen to this Podcast__ that provides a great overview of the Machine Learning ecosystem. Download it [here](https://overcast.fm/itunes1204521130/machine-learning-guide)
